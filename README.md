@@ -2,13 +2,13 @@
 
 🚀 **Senior Frontend Developer** with 10+ years of experience  
 🎯 Specialized in **React, TypeScript, GraphQL, and modern frontend ecosystems**  
-🌍 Based in Albania, originally from Ukraine 🇺🇦  
+🌍 Originally from Ukraine 🇺🇦  
 🤝 Passionate about building scalable web apps, mentoring teams, and solving complex UI/UX challenges  
 
 ---
 
 ## 🔭 Currently Working On
-- A **car marketplace project** (Next.js, Tailwind, shadcn/ui, Prisma)  
+- A **Content generation platform using AI** (React, Django, AntD, GraphQL)  
 - Exploring **serverless apps** (Vercel, Node.js, Slack bots)  
 
 ---
@@ -63,4 +63,5 @@
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)]([https://www.linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/bogmw/))  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bogmw.it@gmail.com)  
 
